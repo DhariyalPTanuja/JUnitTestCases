@@ -1,12 +1,11 @@
 package com.moodanalyzer.MoodAnalyzerTest;
 
 public class MoodAnalyzerMain {
+	public String analyseMood(String message) {
+		return null;
 
-	public static void main(String[] args) {
-		
-		System.out.println("Mood Analyzer JUnit Test Case");
+
 	}
-		
 	}
 	
 
